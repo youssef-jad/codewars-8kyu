@@ -1,4 +1,4 @@
-### codeWars 8 kyu Challenge [![Build Status](https://travis-ci.com/youssef-jad/codewars-kata.svg?branch=master)](https://travis-ci.com/youssef-jad/codewars-kata)
+### codeWars 8 kyu Challenge [![Build Status](https://travis-ci.com/youssef-jad/codewars-8kyu.svg?branch=master)](https://travis-ci.com/youssef-jad/codewars-8kyu)
 
 
 Instructions : 

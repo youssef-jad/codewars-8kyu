@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="76846656-bacf-44e8-98e6-b64ab0df75a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/8kyu/.travis.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +14,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.travis.yml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/8kyu/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -35,11 +40,12 @@
         <option value="$PROJECT_DIR$/8kyu/src/IsItLate.php" />
         <option value="$PROJECT_DIR$/8kyu/tests/IsLateSpec.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="4" />
     <option name="width" value="902" />
     <option name="height" value="508" />
@@ -57,11 +63,6 @@
             <path>
               <item name="codewars-kata" type="b2602c69:ProjectViewProjectNode" />
               <item name="codewars-kata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codewars-kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codewars-kata" type="462c0819:PsiDirectoryNode" />
-              <item name="8kyu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -82,6 +83,7 @@
       <recent name="$PROJECT_DIR$/8kyu" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/8kyu" />
       <recent name="$PROJECT_DIR$/8kyu/src" />
       <recent name="$PROJECT_DIR$/8kyu/src/Petunia" />
     </key>
@@ -100,19 +102,19 @@
   </component>
   <component name="RunManager" selected="PHPUnit.TestMain.testExample">
     <configuration name="TestMain" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="TestMain" file="$PROJECT_DIR$/8kyu/tests/TestMain.php" scope="Class" />
+      <TestRunner class="TestMain" file="$PROJECT_DIR$/tests/TestMain.php" scope="Class" />
       <method v="2" />
     </configuration>
     <configuration name="TestMain.testExample" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="TestMain" file="$PROJECT_DIR$/8kyu/tests/TestMain.php" method="testExample" scope="Method" />
+      <TestRunner class="TestMain" file="$PROJECT_DIR$/tests/TestMain.php" method="testExample" scope="Method" />
       <method v="2" />
     </configuration>
     <configuration name="Test.testExample" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Test" file="$PROJECT_DIR$/8kyu/tests/TestMain.php" method="testExample" scope="Method" />
+      <TestRunner class="Test" file="$PROJECT_DIR$/tests/TestMain.php" method="testExample" scope="Method" />
       <method v="2" />
     </configuration>
     <configuration name="test" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="test" file="$PROJECT_DIR$/8kyu/tests/TestMain.php" scope="Class" />
+      <TestRunner class="test" file="$PROJECT_DIR$/tests/TestMain.php" scope="Class" />
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -134,7 +136,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556572163230</updated>
-      <workItem from="1556572164594" duration="9933000" />
+      <workItem from="1556572164594" duration="10240000" />
     </task>
     <servers />
   </component>
@@ -171,19 +173,19 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9933000" />
+    <option name="totallyTimeSpent" value="10240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Atlassian " />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3297546" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3297546" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -280,8 +282,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/8kyu/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

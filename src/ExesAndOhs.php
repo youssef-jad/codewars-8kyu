@@ -27,7 +27,12 @@ class ExesAndOhs
             return true ;
         }
         return false ;
+    }
 
+
+    public function XO_refactored($s)
+    {
+        return substr_count(strtolower($s) , 'x') === substr_count(strtolower($s) , 'o');
     }
 
 }

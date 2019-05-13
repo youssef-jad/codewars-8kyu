@@ -3,7 +3,7 @@
 use Petunia\Kyu\IsItLate;
 use PHPUnit\Framework\TestCase;
 
-class TestMain extends TestCase
+class TestIsItLate extends TestCase
 {
 
     public function testExample() {

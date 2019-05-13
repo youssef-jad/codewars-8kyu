@@ -3,7 +3,8 @@
 <phpunit bootstrap="../vendor/autoload.php">
     <testsuites>
         <testsuite name="Mains">
-            <file>../tests/TestMain.php</file>
+            <file>../tests/TestIsItLate.php</file>
+            <file>../tests/TestExesAndOhs.php</file>
         </testsuite>
     </testsuites>
 </phpunit>

@@ -5,6 +5,7 @@
         <testsuite name="Mains">
             <file>../tests/TestIsItLate.php</file>
             <file>../tests/TestExesAndOhs.php</file>
+            <file>../tests/TestMoresDecode1.php</file>
         </testsuite>
     </testsuites>
 </phpunit>
